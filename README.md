@@ -28,11 +28,15 @@ This Excel dashboard analyzes transactional data from a specialty coffee shop ch
 - **Top 5 Products**: Barista Espresso, Brewed Chai Tea, Gourmet Coffee, Hot Chocolate, Brewed Black Tea
 - **Size Breakdown**: Regular and Large sizes dominate sales
 
+## Dashboard Preview
+<img width="1318" height="580" alt="image" src="https://github.com/user-attachments/assets/8373964c-c4d1-4314-937a-3c754412093c" />
+
 ## 🎯 Business Impact
 - Identified high-performing products and time slots for targeted promotions
 - Enabled inventory planning based on category and store-level demand
 - Supported strategic decisions with clear visual storytelling
 
 ---
+
 
 
